@@ -1,1 +1,6 @@
+Our group project was on Convolutional Neural Networks. We used the data sets from moths and butterflies from Kaggle and did it on google
+colab. When running the model and code, we had to make sure to have the images saved and linked to the google colab folder. 
+This made it easier to run. Additionally, the training had to use high computational power making it very expensive.
 
+In the repository we have attached the code for both of the models as well as the pdf of the model showing results.
+The presentation of the project is also found in the repository.
